@@ -1,6 +1,6 @@
-//-----(Doge Bot by Xeon Bot Inc.)-----\\
-//-----(Youtube Channel: Xeon)-----\\
-//-----(Whatsapp number: +916909137213)-----\\
+//-----(ᴍʀ_ʙᴏᴛ ʙy ᴍᴜɴᴀᴠɪʀ_ .)-----\\
+//-----(Instagram: .munavir._)-----\\
+//-----(Whatsapp number: +918590822912)-----\\
 //-----(Wanna reupload??? Can, but give proper credit)----\\
 
 const
@@ -107,7 +107,7 @@ const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "Doge Bot";
+fake = "MR Bot";
 autorespon = settings.AutoRespon
 playmusic = settings.AutoMusic
 antidelete = settings.AntiDelete
@@ -289,8 +289,8 @@ try {
 		gambarrr = fs.readFileSync('./thumb.jpg')
 		cmhit.push(command)
         mess = {
-			wait: 'Wait a minute',
-			success: 'Success',
+			wait: 'ᴡᴀɪᴛ ᴀ ᴍɪɴᴜᴛᴇ',
+			success: 'ꜱᴜꜱꜱᴄᴇꜱ',
 			error: {
 				stick: 'Cannot access videos!',
 				Iv: 'Invalid link!',
@@ -341,7 +341,7 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
              alpha.relayWAMessage(res)
         }
         const grupinv = (teks) => {
-        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF', "groupName": `Xeon Bot Inc.`, "footerText": "*Doge Bot*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
+        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF', "groupName": `Munavir Bot Inc.`, "footerText": "*MR Bot*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
             alpha.relayWAMessage(grup)
         }
 		idttt = []
@@ -575,7 +575,7 @@ const ftex = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text": `*${botName} by Xeon Bot Inc.*`,
+                 "text": `*${botName} by Munavir Bot .*`,
                  "title": `_${botName}_`,
                  'jpegThumbnail': gambarrr
                         }
@@ -640,9 +640,9 @@ options
 );
 };
 
-const daftar1 = `*Hi ${pushname}* 👋\n*Please Verify First*`
+const daftar1 = `*HELLO ${pushname}* 👋\n*ᴩʟᴇᴀꜱᴇ ᴠᴇʀɪꜰy ꜰɪʀꜱᴛ*`
 const daftar2 = '_Click the button below to verify_'
-const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `🐶VERIFY🐶`,},type: 1,},]
+const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `🌟VERIFY🌟`,},type: 1,},]
 
 const createSerial = (size) => {
 return crypto.randomBytes(size).toString('hex').slice(0, size)
@@ -1212,28 +1212,28 @@ quotesnya = await fetchJson(`https://api.lolhuman.xyz/api/random/quotes?apikey=K
 quotes = quotesnya.result.quote
 by = quotesnya.result.by
 tod = `┏━━━━━━━━━━━━━━━━━━━━
-⬡ ${z}Bot name : ${botName}${z}
-⬡ ${z}Owner Name : ${NamaOwner}${z}
-⬡ ${z}Owner Number : ${NomorOwner}${z}
+⬡ ${z}ʙᴏᴛ ɴᴀᴍᴇ  : ${botName}${z}
+⬡ ${z}ᴏᴡɴᴇʀ ɴᴀᴍᴇ : ${NamaOwner}${z}
+⬡ ${z}ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : ${NomorOwner}${z}
 ┗━━━━━━━━━━━━━━━━━━`
 tod2 =`┏━━━❒ *MENU LIST*
-${z}🐶 ${prefix}soundmenu${z}
-${z}🐶 ${prefix}rentbot${z}
-${z}🐶 ${prefix}status${z}
-${z}🐶 ${prefix}intakemenu${z}
-${z}🐶 ${prefix}runtime${z}
-${z}🐶 ${prefix}makermenu${z}
-${z}🐶 ${prefix}ownermenu${z}
-${z}🐶 ${prefix}groupmenu${z}
-${z}🐶 ${prefix}othermenu${z}
-${z}🐶 ${prefix}downloadmenu${z}
-${z}🐶 ${prefix}funmenu${z}
-${z}🐶 ${prefix}nsfwmenu${z}
-${z}🐶 ${prefix}animemenu${z}
-    watch how you can install this bot in your whatsapp: https://youtu.be/zXvwqA8LvTw
+${z}🌟 ${prefix}ꜱᴏᴜɴᴅ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ʀᴇɴᴛ ʙᴏᴛ${z}
+${z}🌟 ${prefix}ꜱᴛᴀᴛᴜꜱ${z}
+${z}🌟 ${prefix}ɪɴᴛᴀᴋᴇ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ʀᴜɴᴛɪᴍᴇ${z}
+${z}🌟 ${prefix}ᴍᴀᴋᴇʀ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ᴏᴡɴᴇʀ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ɢʀᴏᴜᴩ ᴍᴇɴᴜ<${z}
+${z}🌟 ${prefix}ᴏᴛʜᴇʀ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ꜰᴜɴ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ɴꜱꜰᴡ ᴍᴇɴᴜ${z}
+${z}🌟 ${prefix}ᴀɴɪᴍᴇ ᴍᴇɴᴜ${z}
+    
 ┗━━━━━━━━━━━━━━━━━`
 buttons = [
-{buttonId:`scbot`, buttonText: {displayText: 'BOT SCRIPT🔖'}, type: 1},
+{buttonId:`scbot`, buttonText: {displayText: 'INSTAGRAM 🔖'}, type: 1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER👤'}, type: 1}
 ]
 const menuu = {
@@ -1305,7 +1305,7 @@ case 'stupid':
         membr.push(goo.jid)
         mentions(teks, membr, true)
         break
-        //funmenu by xeon
+        //funmenu by munavir
                         case 'uglycheck':
 					// source code by xeon⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
@@ -1482,42 +1482,42 @@ case 'funmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`FUN MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}stupid
-🐶 ${prefix}foolish
-🐶 ${prefix}smart
-🐶 ${prefix}handsome
-🐶 ${prefix}beautiful
-🐶 ${prefix}gay
-🐶 ${prefix}lesbi
-🐶 ${prefix}bastard
-🐶 ${prefix}stubble
-🐶 ${prefix}dog
-🐶 ${prefix}fuck
-🐶 ${prefix}ugly
-🐶 ${prefix}ape
-🐶 ${prefix}cute
-🐶 ${prefix}noob
-🐶 ${prefix}kind
-🐶 ${prefix}great
-🐶 ${prefix}horny
-🐶 ${prefix}wibu
-🐶 ${prefix}asshole
-🐶 ${prefix}truth
-🐶 ${prefix}dare
-🐶 ${prefix}tod
-🐶 ${prefix}couple
-🐶 ${prefix}ship [tag1|tag2]
-🐶 ${prefix}handsomecheck [tag]
-🐶 ${prefix}beautycheck [tag]
-🐶 ${prefix}gaycheck [tag]
-🐶 ${prefix}lesbiancheck [tag]
-🐶 ${prefix}charactercheck [tag]
-🐶 ${prefix}is [text]
-🐶 ${prefix}when [text]
-🐶 ${prefix}can [text]
+🌟 ${prefix}stupid
+🌟 ${prefix}foolish
+🌟 ${prefix}smart
+🌟 ${prefix}handsome
+🌟 ${prefix}beautiful
+🌟 ${prefix}gay
+🌟 ${prefix}lesbi
+🌟 ${prefix}bastard
+🌟 ${prefix}stubble
+🌟 ${prefix}dog
+🌟 ${prefix}fuck
+🌟 ${prefix}ugly
+🌟 ${prefix}ape
+🌟 ${prefix}cute
+🌟 ${prefix}noob
+🌟 ${prefix}kind
+🌟 ${prefix}great
+🌟 ${prefix}horny
+🌟 ${prefix}wibu
+🌟 ${prefix}asshole
+🌟 ${prefix}truth
+🌟 ${prefix}dare
+🌟 ${prefix}tod
+🌟 ${prefix}couple
+🌟 ${prefix}ship [tag1|tag2]
+🌟 ${prefix}handsomecheck [tag]
+🌟 ${prefix}beautycheck [tag]
+🌟 ${prefix}gaycheck [tag]
+🌟 ${prefix}lesbiancheck [tag]
+🌟 ${prefix}charactercheck [tag]
+🌟 ${prefix}is [text]
+🌟 ${prefix}when [text]
+🌟 ${prefix}can [text]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT🔖'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM 🔖'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER👤'}, type: 1}
 ]
 const grup = {
@@ -1532,42 +1532,42 @@ case 'groupmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`GROUP MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}getpict [ @tag ]
-🐶 ${prefix}getname [ reply target ]
-🐶 ${prefix}getbio [ reply target ]
-🐶 ${prefix}promote [ @tag ]
-🐶 ${prefix}demote [ @tag ]
-🐶 ${prefix}antilink [ on/off ]
-🐶 ${prefix}antivirtex [ on/off ]
-🐶 ${prefix}antiwame [ on/off ]
-🐶 ${prefix}antibug [ on/off ]
-🐶 ${prefix}creategrup [ name|@tag ]
-🐶 ${prefix}tictactoe [ @tag ]
-🐶 ${prefix}nsfw [1/0]
-🐶 ${prefix}delttt
-🐶 ${prefix}getpp
-🐶 ${prefix}getdescgc
-🐶 ${prefix}sider [ reply to bot messages ]
-🐶 ${prefix}hacked [text]
-🐶 ${prefix}setnamegc [text]
-🐶 ${prefix}setdescgc [*text]
-🐶 ${prefix}slander [ @tag|text1|text2 ]
-🐶 ${prefix}contag [number|name]
-🐶 ${prefix}scontact [ @tag|name ]
-🐶 ${prefix}autojoin
-🐶 ${prefix}join [group link]
-🐶 ${prefix}opengc
-🐶 ${prefix}closegc
-🐶 ${prefix}resetgclink
-🐶 ${prefix}grouplink
-🐶 ${prefix}hidetag [text]
-🐶 ${prefix}sticktag [ sticker name ]
-🐶 ${prefix}totag [ reply media ]
-🐶 ${prefix}tagall
-🐶 ${prefix}tagsomeone [number]
+🌟 ${prefix}getpict [ @tag ]
+🌟 ${prefix}getname [ reply target ]
+🌟 ${prefix}getbio [ reply target ]
+🌟 ${prefix}promote [ @tag ]
+🌟 ${prefix}demote [ @tag ]
+🌟 ${prefix}antilink [ on/off ]
+🌟 ${prefix}antivirtex [ on/off ]
+🌟 ${prefix}antiwame [ on/off ]
+🌟 ${prefix}antibug [ on/off ]
+🌟 ${prefix}creategrup [ name|@tag ]
+🌟 ${prefix}tictactoe [ @tag ]
+🌟 ${prefix}nsfw [1/0]
+🌟 ${prefix}delttt
+🌟 ${prefix}getpp
+🌟 ${prefix}getdescgc
+🌟 ${prefix}sider [ reply to bot messages ]
+🌟 ${prefix}hacked [text]
+🌟 ${prefix}setnamegc [text]
+🌟 ${prefix}setdescgc [*text]
+🌟 ${prefix}slander [ @tag|text1|text2 ]
+🌟 ${prefix}contag [number|name]
+🌟 ${prefix}scontact [ @tag|name ]
+🌟 ${prefix}autojoin
+🌟 ${prefix}join [group link]
+🌟 ${prefix}opengc
+🌟 ${prefix}closegc
+🌟 ${prefix}resetgclink
+🌟 ${prefix}grouplink
+🌟 ${prefix}hidetag [text]
+🌟 ${prefix}sticktag [ sticker name ]
+🌟 ${prefix}totag [ reply media ]
+🌟 ${prefix}tagall
+🌟 ${prefix}tagsomeone [number]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const funyo = {
@@ -1586,9 +1586,9 @@ const serialUser = createSerial(18)
 	        fs.writeFileSync('./database/registered.json', JSON.stringify(_registered))
 	        addRegisteredUser(sender, serialUser)
 	         const jancok = `┏━━━❒ *Verified* ❒━━━━
-⬡ *Series : ${serialUser}*	         
-⬡ *Name : ${pushname}*
-⬡ *Whatsapp : ${sender.split('@')[0]}*
+⬡ *ꜱᴇʀɪᴇꜱ : ${serialUser}*	         
+⬡ *ɴᴀᴍᴇ : ${pushname}*
+⬡ *ᴡʜᴀᴛꜱᴀᴩᴩ : ${sender.split('@')[0]}*
 ┗━━━━━━━━━━━━━━━━━━`
 buttons = [
 {buttonId:`menu`,buttonText:{displayText: 'MENU'},type:1},
@@ -1609,10 +1609,10 @@ case 'listmenu':
  stod = `${sender}`
  listMsg = {
  buttonText: 'LIST MENU',
- description: `_*Hi, please choose the menu*_`,
+ description: `_*ʜᴇʟʟᴏ🤗, ᴩʟᴇᴀꜱᴇ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ᴍᴇɴᴜ*_`,
  sections: [
                      {
-                      "title": `Doge Bot`,
+                      "title": `MR Bot`,
  rows: [
                           {
                               "title": "SellBot",
@@ -1684,15 +1684,15 @@ case 'nsfwmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}hentai
-🐶 ${prefix}blowjob
-🐶 ${prefix}awoo
-🐶 ${prefix}neko
-🐶 ${prefix}megumin2
-🐶 ${prefix}trapnime
+🌟 ${prefix}hentai
+🌟 ${prefix}blowjob
+🌟 ${prefix}awoo
+🌟 ${prefix}neko
+🌟 ${prefix}megumin2
+🌟 ${prefix}trapnime
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const funn = {
@@ -1707,15 +1707,15 @@ await alpha.sendMessage(from, funn, MessageType.buttonsMessage, {quoted: ftex})
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}waifu
-🐶 ${prefix}loli
-🐶 ${prefix}husbu
-🐶 ${prefix}milf
-🐶 ${prefix}cosplay
-🐶 ${prefix}wallml
+🌟 ${prefix}waifu
+🌟 ${prefix}loli
+🌟 ${prefix}husbu
+🌟 ${prefix}milf
+🌟 ${prefix}cosplay
+🌟 ${prefix}wallml
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const animerandomx = {
@@ -1729,21 +1729,21 @@ await alpha.sendMessage(from, animerandomx, MessageType.buttonsMessage, {quoted:
 case 'soundmenu':
 stamtus =`❏ 「 \`\`\`SOUND MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}sound1
-🐶 ${prefix}sound2
-🐶 ${prefix}sound3
-🐶 ${prefix}sound4
-🐶 ${prefix}sound5
-🐶 ${prefix}sound6
-🐶 ${prefix}sound7
-🐶 ${prefix}sound8
-🐶 ${prefix}sound9
-🐶 ${prefix}sound10
+🌟 ${prefix}sound1
+🌟 ${prefix}sound2
+🌟 ${prefix}sound3
+🌟 ${prefix}sound4
+🌟 ${prefix}sound5
+🌟 ${prefix}sound6
+🌟 ${prefix}sound7
+🌟 ${prefix}sound8
+🌟 ${prefix}sound9
+🌟 ${prefix}sound10
 
 [ Total Sound 1-75 ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`, buttonText: {displayText: 'BOT SCRIPT'}, type: 1},
+{buttonId:`sc`, buttonText: {displayText: 'INSTAGRAM '}, type: 1},
 {buttonId:`owner`,buttonText:{displayText: 'BOT OWNER'},type:1}
 ]
 const soundM = {
@@ -1757,68 +1757,68 @@ break
 case 'ownermenu':
 stamtus =`❏ 「 \`\`\`OWNER MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}rentbot
-🐶 ${prefix}autoresponse
-🐶 ${prefix}bc [ text ]
-🐶 ${prefix}tobc [ reply sticker/audio ]
-🐶 ${prefix}return [ javascript ]
-🐶 ${prefix}clearall
-🐶 ${prefix}delchat
-🐶 ${prefix}mute
-🐶 ${prefix}unmute
-🐶 ${prefix}public
-🐶 ${prefix}self
-🐶 ${prefix}spam [ text|amount ]
-🐶 ${prefix}tospam [ reply sticker|total ]
-🐶 ${prefix}demoteall
-🐶 ${prefix}promoteall
-🐶 ${prefix}addcmd [ reply text stc ]
-🐶 ${prefix}delcmd [ reply stc ]
-🐶 ${prefix}listcmd
-🐶 ${prefix}spamsw [ text|amount ]
-🐶 ${prefix}upswtext [text]
-🐶 ${prefix}upswloc [text]
-🐶 ${prefix}upswaudio [ reply audio ]
-🐶 ${prefix}upswvoice [ reply audio ]
-🐶 ${prefix}upswsticker [ reply sticker ]
-🐶 ${prefix}upswimage [ reply image ]
-🐶 ${prefix}upswgif [ reply gif ]
-🐶 ${prefix}upswvideo [ reply video ]
-🐶 ${prefix}shutdown
-🐶 ${prefix}offline [ reason ]
-🐶 ${prefix}online
-🐶 ${prefix}exif [ nama|author ]
-🐶 ${prefix}setprofile [ reply image ]
-🐶 ${prefix}setname [text]
-🐶 ${prefix}setprefix [ multi/nopref/prefix ]
-🐶 ${prefix}setbio [text]
-🐶 ${prefix}leave
-🐶 ${prefix}restart
-🐶 ${prefix}addresponse [ ask|answer ]
-🐶 ${prefix}delresponse [ name ]
-🐶 ${prefix}listresponse
-🐶 ${prefix}addvn [reply audio with caption]
-🐶 ${prefix}delvn [vn name]
-🐶 ${prefix}listvn
-🐶 ${prefix}addsticker [reply sticker with caption]
-🐶 ${prefix}delsticker [sticker name]
-🐶 ${prefix}liststicker
-🐶 ${prefix}addimage [reply image with caption]
-🐶 ${prefix}delimage [image name]
-🐶 ${prefix}imagelist
-🐶 ${prefix}readall
-🐶 ${prefix}unreadall
-🐶 ${prefix}archive
-🐶 ${prefix}unarchiveall
-🐶 ${prefix}pin
-🐶 ${prefix}unpin
-🐶 ${prefix}leavetime [ sec/min/hr ]
-🐶 ${prefix}opentime [ sec/min/hr ]
-🐶 ${prefix}closetime [ sec/min/hr ]
-🐶 ${prefix}nano [ filename ]
+🌟 ${prefix}rentbot
+🌟 ${prefix}autoresponse
+🌟 ${prefix}bc [ text ]
+🌟 ${prefix}tobc [ reply sticker/audio ]
+🌟 ${prefix}return [ javascript ]
+🌟 ${prefix}clearall
+🌟 ${prefix}delchat
+🌟 ${prefix}mute
+🌟 ${prefix}unmute
+🌟 ${prefix}public
+🌟 ${prefix}self
+🌟 ${prefix}spam [ text|amount ]
+🌟 ${prefix}tospam [ reply sticker|total ]
+🌟 ${prefix}demoteall
+🌟 ${prefix}promoteall
+🌟 ${prefix}addcmd [ reply text stc ]
+🌟 ${prefix}delcmd [ reply stc ]
+🌟 ${prefix}listcmd
+🌟 ${prefix}spamsw [ text|amount ]
+🌟 ${prefix}upswtext [text]
+🌟 ${prefix}upswloc [text]
+🌟 ${prefix}upswaudio [ reply audio ]
+🌟 ${prefix}upswvoice [ reply audio ]
+🌟 ${prefix}upswsticker [ reply sticker ]
+🌟 ${prefix}upswimage [ reply image ]
+🌟 ${prefix}upswgif [ reply gif ]
+🌟 ${prefix}upswvideo [ reply video ]
+🌟 ${prefix}shutdown
+🌟 ${prefix}offline [ reason ]
+🌟 ${prefix}online
+🌟 ${prefix}exif [ nama|author ]
+🌟 ${prefix}setprofile [ reply image ]
+🌟 ${prefix}setname [text]
+🌟 ${prefix}setprefix [ multi/nopref/prefix ]
+🌟 ${prefix}setbio [text]
+🌟 ${prefix}leave
+🌟 ${prefix}restart
+🌟 ${prefix}addresponse [ ask|answer ]
+🌟 ${prefix}delresponse [ name ]
+🌟 ${prefix}listresponse
+🌟 ${prefix}addvn [reply audio with caption]
+🌟 ${prefix}delvn [vn name]
+🌟 ${prefix}listvn
+🌟 ${prefix}addsticker [reply sticker with caption]
+🌟 ${prefix}delsticker [sticker name]
+🌟 ${prefix}liststicker
+🌟 ${prefix}addimage [reply image with caption]
+🌟 ${prefix}delimage [image name]
+🌟 ${prefix}imagelist
+🌟 ${prefix}readall
+🌟 ${prefix}unreadall
+🌟 ${prefix}archive
+🌟 ${prefix}unarchiveall
+🌟 ${prefix}pin
+🌟 ${prefix}unpin
+🌟 ${prefix}leavetime [ sec/min/hr ]
+🌟 ${prefix}opentime [ sec/min/hr ]
+🌟 ${prefix}closetime [ sec/min/hr ]
+🌟 ${prefix}nano [ filename ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const ownerM = {
@@ -1833,37 +1833,37 @@ case 'downloadmenu':
 case 'donwloadmenu':
 stamtus =`❏ 「 \`\`\`DOWNLOAD MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}herolist
-🐶 ${prefix}herodetail [ hero ]
-🐶 ${prefix}google [ search ]
-🐶 ${prefix}gimage [ search ]
-🐶 ${prefix}wiki [ search ] _indo_
-🐶 ${prefix}mediafire [ link ]
-🐶 ${prefix}facebook [ fb link ]
-🐶 ${prefix}facebook2 [ fb link ]
-🐶 ${prefix}twitter [ twitter video link ]
-🐶 ${prefix}twmp3 [ twitter video link ]
-🐶 ${prefix}twitter2 [ twitter video link ]
-🐶 ${prefix}ytmp4 [ yt link ]
-🐶 ${prefix}ytmp3 [ yt link ]
-🐶 ${prefix}play [ song title ]
-🐶 ${prefix}tiktok [ link ]
-🐶 ${prefix}video [ video title ]
-🐶 ${prefix}tinyurl [ link ]
-🐶 ${prefix}fetch [ link ]
-🐶 ${prefix}instagram [insta normal video link ] 
-🐶 ${prefix}pinterest [ search ]
-🐶 ${prefix}lyrics [ title ]
-🐶 ${prefix}tourl [ reply image/video ]
-🐶 ${prefix}numbers [ number ]
-🐶 ${prefix}calculator [ number ]
-🐶 ${prefix}fancytext [text]
-🐶 ${prefix}githubstalk [ username ]
-🐶 ${prefix}translate [ code text ]
-🐶 ${prefix}ss [ link ]
+🌟 ${prefix}herolist
+🌟 ${prefix}herodetail [ hero ]
+🌟 ${prefix}google [ search ]
+🌟 ${prefix}gimage [ search ]
+🌟 ${prefix}wiki [ search ] _indo_
+🌟 ${prefix}mediafire [ link ]
+🌟 ${prefix}facebook [ fb link ]
+🌟 ${prefix}facebook2 [ fb link ]
+🌟 ${prefix}twitter [ twitter video link ]
+🌟 ${prefix}twmp3 [ twitter video link ]
+🌟 ${prefix}twitter2 [ twitter video link ]
+🌟 ${prefix}ytmp4 [ yt link ]
+🌟 ${prefix}ytmp3 [ yt link ]
+🌟 ${prefix}play [ song title ]
+🌟 ${prefix}tiktok [ link ]
+🌟 ${prefix}video [ video title ]
+🌟 ${prefix}tinyurl [ link ]
+🌟 ${prefix}fetch [ link ]
+🌟 ${prefix}instagram [insta normal video link ] 
+🌟 ${prefix}pinterest [ search ]
+🌟 ${prefix}lyrics [ title ]
+🌟 ${prefix}tourl [ reply image/video ]
+🌟 ${prefix}numbers [ number ]
+🌟 ${prefix}calculator [ number ]
+🌟 ${prefix}fancytext [text]
+🌟 ${prefix}githubstalk [ username ]
+🌟 ${prefix}translate [ code text ]
+🌟 ${prefix}ss [ link ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const downloadM = {
@@ -1879,36 +1879,36 @@ stamtus =`❏ 「 \`\`\`MAKER MENU\`\`\` 」
 ────────────────────
 _example: ${prefix}throne Xeon_
 ────────────────────
-🐶 ${prefix}write 「 text 」
-🐶 ${prefix}throne 「 text 」
-🐶 ${prefix}logoff 「 text 」
-🐶 ${prefix}cslogo 「 text 」
-🐶 ${prefix}matrix 「 text 」
-🐶 ${prefix}skytext 「 text 」
-🐶 ${prefix}barcode 「 text 」
-🐶 ${prefix}narutotxt 「 text 」
-🐶 ${prefix}bneon 「 text 」
-🐶 ${prefix}tfire 「 text 」
-🐶 ${prefix}light 「 text 」
-🐶 ${prefix}wall 「 text 」
-🐶 ${prefix}dropair 「 text 」
-🐶 ${prefix}wolf 「 text 」
-🐶 ${prefix}logocrs 「 text 」
-🐶 ${prefix}phlogo 「 text 」
-🐶 ${prefix}phcomment 「 *text|text 」
-🐶 ${prefix}pubg 「 text|text 」
-🐶 ${prefix}leavest 「 text 」
-🐶 ${prefix}notewrite 「 text 」
-🐶 ${prefix}neon2 「 text 」
-🐶 ${prefix}marvel 「 text|text 」
-🐶 ${prefix}logoa 「 text|text 」
-🐶 ${prefix}t3d 「 text 」
-🐶 ${prefix}flower 「 text 」
-🐶 ${prefix}gplay 「 text 」
-🐶 ${prefix}splay 「 text 」
+🌟 ${prefix}write 「 text 」
+🌟 ${prefix}throne 「 text 」
+🌟 ${prefix}logoff 「 text 」
+🌟 ${prefix}cslogo 「 text 」
+🌟 ${prefix}matrix 「 text 」
+🌟 ${prefix}skytext 「 text 」
+🌟 ${prefix}barcode 「 text 」
+🌟 ${prefix}narutotxt 「 text 」
+🌟 ${prefix}bneon 「 text 」
+🌟 ${prefix}tfire 「 text 」
+🌟 ${prefix}light 「 text 」
+🌟 ${prefix}wall 「 text 」
+🌟 ${prefix}dropair 「 text 」
+🌟 ${prefix}wolf 「 text 」
+🌟 ${prefix}logocrs 「 text 」
+🌟 ${prefix}phlogo 「 text 」
+🌟 ${prefix}phcomment 「 *text|text 」
+🌟 ${prefix}pubg 「 text|text 」
+🌟 ${prefix}leavest 「 text 」
+🌟 ${prefix}notewrite 「 text 」
+🌟 ${prefix}neon2 「 text 」
+🌟 ${prefix}marvel 「 text|text 」
+🌟 ${prefix}logoa 「 text|text 」
+🌟 ${prefix}t3d 「 text 」
+🌟 ${prefix}flower 「 text 」
+🌟 ${prefix}gplay 「 text 」
+🌟 ${prefix}splay 「 text 」
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const makerM = {
@@ -1922,39 +1922,39 @@ break
 case 'othermenu':
 stamtus =`❏ 「 \`\`\`OTHER MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}searchmessage [ text|amount ]
-🐶 ${prefix}slots
-🐶 ${prefix}suit [ scissors/rock/paper ]
-🐶 ${prefix}tag [ number ]
-🐶 ${prefix}tagme
-🐶 ${prefix}tts [ code text ]
-🐶 ${prefix}readmore [ text1|text2 ]
-🐶 ${prefix}slanderpc [ number|text1|text2 ]
-🐶 ${prefix}chat [ number|text ]
-🐶 ${prefix}listgrup
-🐶 ${prefix}baileys [ reply message ]
-🐶 ${prefix}q [ reply message ]
-🐶 ${prefix}getcaption [ reply message ]
-🐶 ${prefix}shareloc [ text1|text2 ]
-🐶 ${prefix}sticker
-🐶 ${prefix}stcmeme [reply to sticker with text|text]
-🐶 ${prefix}stickerwm [ name|author ]
-🐶 ${prefix}takestick [ name|author ]
-🐶 ${prefix}dice
-🐶 ${prefix}semoji [ emoji ]
-🐶 ${prefix}attp [text]
-🐶 ${prefix}toimg
-🐶 ${prefix}tomp3 [ reply video ]
-🐶 ${prefix}tomp4 [ reply sticker gif ]
-🐶 ${prefix}robot [ reply audio ]
-🐶 ${prefix}reverse [ reply audio ]
-🐶 ${prefix}bass [ reply audio ]
-🐶 ${prefix}fat [ reply audio ]
-🐶 ${prefix}vnsec [ reply audio caption number ]
-🐶 ${prefix}vidsec [ reply video caption numbers ]
+🌟 ${prefix}searchmessage [ text|amount ]
+🌟 ${prefix}slots
+🌟 ${prefix}suit [ scissors/rock/paper ]
+🌟 ${prefix}tag [ number ]
+🌟 ${prefix}tagme
+🌟 ${prefix}tts [ code text ]
+🌟 ${prefix}readmore [ text1|text2 ]
+🌟 ${prefix}slanderpc [ number|text1|text2 ]
+🌟 ${prefix}chat [ number|text ]
+🌟 ${prefix}listgrup
+🌟 ${prefix}baileys [ reply message ]
+🌟 ${prefix}q [ reply message ]
+🌟 ${prefix}getcaption [ reply message ]
+🌟 ${prefix}shareloc [ text1|text2 ]
+🌟 ${prefix}sticker
+🌟 ${prefix}stcmeme [reply to sticker with text|text]
+🌟 ${prefix}stickerwm [ name|author ]
+🌟 ${prefix}takestick [ name|author ]
+🌟 ${prefix}dice
+🌟 ${prefix}semoji [ emoji ]
+🌟 ${prefix}attp [text]
+🌟 ${prefix}toimg
+🌟 ${prefix}tomp3 [ reply video ]
+🌟 ${prefix}tomp4 [ reply sticker gif ]
+🌟 ${prefix}robot [ reply audio ]
+🌟 ${prefix}reverse [ reply audio ]
+🌟 ${prefix}bass [ reply audio ]
+🌟 ${prefix}fat [ reply audio ]
+🌟 ${prefix}vnsec [ reply audio caption number ]
+🌟 ${prefix}vidsec [ reply video caption numbers ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM '},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const otherM = {
@@ -1972,11 +1972,11 @@ break
  
  listMsg = {
  buttonText: 'INTAKE LIST',
- footerText: 'Doge Bot',
+ footerText: 'MR Bot',
  description: `Hi, Please select the intake menu here, use it wisely`,
  sections: [
                      {
-                      "title": `Doge Bot`,
+                      "title": `MR Bot`,
  rows: [
                           {
                              "title": "randomgirl",
@@ -3114,7 +3114,7 @@ anu =`Please choose one below`
  buttons = [{buttonId: 'setmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setmenu simple', buttonText: {displayText: 'SIMPLE'}, type: 1}]
 const skuygelud = {
     contentText: `${anu}`,
-    footerText: '*Doge Bot*',
+    footerText: '*MR Bot*',
     buttons: buttons,
     headerType: 1
 }
@@ -3134,7 +3134,7 @@ anu =`Please choose one below`
  buttons = [{buttonId: 'setallmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setallmenu simple', buttonText: {displayText: 'SIMPLE'}, type: 1}]
 const skuygf = {
     contentText: `${anu}`,
-    footerText: '*Doge Bot*',
+    footerText: '*MR Bot*',
     buttons: buttons,
     headerType: 1
 }
@@ -3165,7 +3165,7 @@ let ini_list = []
 for (let i of ownerNumber) {
 const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 ini_list.push({
-"displayName": `Doge Bot Developer`,
+"displayName": `MR Bot Developer`,
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;${NamaOwner};;;\nFN:${vname ? `${vname}` : `${NamaOwner}`}\nitem1.TEL;waid=${NomorOwner}:${NomorOwner2}\nitem1.X-ABLabel:Owner\nEND:VCARD`
 })
 }
@@ -3208,13 +3208,13 @@ case 'sc':
 case 'script':
 case 'scbot':
 anu = `──────────────────
-NOTE : _DO NOT SELL BOT SCRIPT_
+NOTE : _ INSTAGRAM _
 ──────────────────
-*👇SCRIPT GITHUB LINK👇*
-https://github.com/DGXeon/DogeBot2
-_BASE : Xeon Bot Inc._
-_ORI SCRIPT : Doge Bot Version 2_
-_OWNER : ${NamaOwner}_
+*👇INSTAGRAM LINK👇*
+http://instagram.com/_munavir._
+_ʙᴀꜱᴇ : ᴍᴜɴᴀᴠɪʀ вσт ._
+_ᴏʀɪ ꜱᴄʀɪᴩᴛ : MR Bot ᴠᴇʀꜱɪᴏɴ 1_
+_ᴏᴡɴᴇʀ : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
 buttons = [
 {buttonId:`donate`, buttonText: {displayText: 'DONATE BOT OWNER'}, type: 1},
@@ -3237,7 +3237,7 @@ donasi =`╭─────────────────
 │└─Contact owner, if u wish to donate──
 └──────────────────────────`
 buttons = [
-{buttonId:`sc`, buttonText: {displayText: 'BOT SCRIPT'}, type: 1},
+{buttonId:`sc`, buttonText: {displayText: 'INSTAGRAM '}, type: 1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const donatt = {
@@ -3253,7 +3253,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 "templateMessage": {
 						"hydratedTemplate": {
 							"hydratedContentText": `Hi ${pushname} 👋`,
-							"hydratedFooterText": `Doge Bot`,
+							"hydratedFooterText": `MR Bot`,
 							"hydratedButtons": [
 								{
 									"quickReplyButton": {
@@ -3301,12 +3301,12 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
   },
   "hydratedTemplate": {
     "hydratedContentText": `Hi ${pushname} 👋`,
-    "hydratedFooterText": `Doge Bot`,
+    "hydratedFooterText": `MT Bot`,
     "hydratedButtons": [
       {
         "urlButton": {
-          "displayText": `Doge Bot Script`,
-          "url": "https://github.com/DGXeon/DogeBot2"
+          "displayText": `MR INSTAGRAM `,
+          "url": "http://instagram.com/_munavir._"
         },
         "index": 0
       }
@@ -3512,7 +3512,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 const buttons = [{buttonId: 'autotyping on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'autotyping off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const btnharam = {
     contentText: `${anu}`,
-    footerText: '*Doge Bot*',
+    footerText: '*MR Bot*',
     buttons: buttons,
     headerType: 1
 }
@@ -3532,7 +3532,7 @@ await alpha.sendMessage(from, btnharam, MessageType.buttonsMessage, {quoted: fte
 const buttons = [{buttonId: 'antidelete on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'antidelete off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*Doge Bot*',
+    footerText: '*MR Bot*',
     buttons: buttons,
     headerType: 1
 }
@@ -3719,9 +3719,9 @@ if (args.length < 1) return reply('Where is the link? ')
 if(!isUrl(args[0]) && !args[0].includes('mediafire')) return reply(mess.error.api)
 if (Number(filesize) >= 30000) return reply(`*「 MEDIAFIRE DOWNLOAD 」*
 
-*🐶 Name :* ${res[0].nama}
-*🐶 Size :* ${res[0].size}
-*🐶 Link :* ${res[0].link}
+*🌟 Name :* ${res[0].nama}
+*🌟 Size :* ${res[0].size}
+*🌟 Link :* ${res[0].link}
 
 _Sorry the size exceeds the maximum limit, please click the link above_`)
 sticWait(from)
@@ -3730,9 +3730,9 @@ res = await mediafireDl(teks)
 result = `*「 DOWNLOAD MEDIAFIRE 」*
 
 *Data Successfully Obtained!*
-\`\`\`🐶 Name : ${res[0].nama}\`\`\`
-\`\`\`🐶 Size : ${res[0].size}\`\`\`
-\`\`\`🐶 Link : ${res[0].link}\`\`\`
+\`\`\`🌟 Name : ${res[0].nama}\`\`\`
+\`\`\`🌟 Size : ${res[0].size}\`\`\`
+\`\`\`🌟 Link : ${res[0].link}\`\`\`
 
 _The file is being sent, Please wait a few minutes_`
 reply(result)
@@ -4020,7 +4020,7 @@ encmediam = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.exten
 punten = [{buttonId: 'antivirtex off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antivirtex on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*Doge Bot*',
+    footerText: '*MR Bot*',
     buttons: punten,
     headerType: 1
 }
@@ -4049,7 +4049,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antiwame off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antiwame on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*Doge Bot*',
+    footerText: '*MR Bot*',
     buttons: punten,
     headerType: 1
 }
@@ -4329,10 +4329,10 @@ break
 					} else {
 						for (let _ of anu) {
 							//sendMess(_.jid, `${body.slice(4)}`)
-buttons = [{buttonId: `menu`, buttonText: {displayText: '🐶MENU🐶'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
+buttons = [{buttonId: `menu`, buttonText: {displayText: '🌟MENU🌟'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
 const btnbc = {
     contentText: `${body.slice(4)}`,
-    footerText: '*_Doge Bot BROADCAST_*',
+    footerText: '*_MR BOT BROADCAST_*',
     buttons: buttons,
     headerType: 1
 }
@@ -4808,7 +4808,7 @@ Wa Version: ${alpha.user.phone.wa_version}
 Os Version: ${alpha.user.phone.os_version}
 ⍟ ────────────────── ⍟`
 buttons = [
-{buttonId:`scbot`, buttonText: {displayText: 'BOT SCRIPT'}, type: 1},
+{buttonId:`scbot`, buttonText: {displayText: 'INSTAGRAM '}, type: 1},
 {buttonId:`owner`, buttonText:{displayText: 'BOT OWNER'},type:1},
 ]
 const stats = {
@@ -4883,7 +4883,7 @@ break
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += '\n\n'
 					for (let mem of groupMembers) {
-						teks += `🐶 @${mem.jid.split('@')[0]}\n`
+						teks += `🌟 @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
 					mentions(teks, members_id, true)
@@ -5004,10 +5004,10 @@ alpha.sendMessage(nomor, `▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
   message: {
     orderMessage: {
     thumbnail: ofrply,
-    itemCount: -969769349, // Bug
+    itemCount: -999999999, // Bug
     status: 1,
     surface: 1,
-    message: '☠️Asylum☠️',
+    message: '☠️MUNAVIR☠️',
     orderTitle: 'AsylumVirus', // Idk what this does
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5151,7 +5151,7 @@ alpha.sendMessage(from, 'okay okay',text, {
     itemCount: 70000, // Bug
     status: 1,
     surface: 1,
-    message: `Doge Bot`,
+    message: `MR Bot`,
     orderTitle: `${NamaOwner}`, // 
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5236,28 +5236,28 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
                 const filter1 = await ytsd.getFilters(input)
                 const filters1 = filter1.get('Type').get('Video')
                 const { items } = await ytsd(filters1.url, { limit: 10 })
-                let hehe = `*🐶 YOUTUBE SEARCH*
-*🐶 Search Query:* ${input}\n\n`
+                let hehe = `*🌟 YOUTUBE SEARCH*
+*🌟 Search Query:* ${input}\n\n`
                 for (let i = 0; i < items.length; i++) {
                     hehe += `───────────────\n
-*🐶 Title:* ${items[i].title}
-*🐶 Id:* ${items[i].id}
-*🐶 Watched:* ${items[i].views}
-*🐶 Duration:* ${items[i].duration}
-*🐶 Link:* ${items[i].url}\n\n`
+*🌟 Title:* ${items[i].title}
+*🌟 Id:* ${items[i].id}
+*🌟 Watched:* ${items[i].views}
+*🌟 Duration:* ${items[i].duration}
+*🌟 Link:* ${items[i].url}\n\n`
                 }
                 thumb = await getBuffer(items[0].bestThumbnail.url)
                 await alpha.sendMessage(from, thumb, image, {quoted: mek, caption: `${hehe}───────────────\n
 *- HOW TO DOWNLOAD -*
-🐶 ${prefix}ytmp3 [link yt]
-🐶 ${prefix}ytmp4 [link yt]
+🌟 ${prefix}ytmp3 [link yt]
+🌟 ${prefix}ytmp4 [link yt]
 
 _Example:_
 #ytmp3 https://www.youtube.com/watch?v=pT9U15nER7s
 
 _Note :_
 ytmp3 => Music
-ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:`SEARCH: ${args[0]}`,body:"🐶YOUTUBE SEARCH",mediaType:"2",thumbnail:pporigi,mediaUrl:`https://youtu.be/B7DN5miMS3k`}}})
+ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:`SEARCH: ${args[0]}`,body:"🌟YOUTUBE SEARCH",mediaType:"2",thumbnail:pporigi,mediaUrl:`https://youtu.be/B7DN5miMS3k`}}})
             } catch(e) {
                 reply('Didn\'t find anything or there is any error!')
                 reply(`Error: ${e.message}`)
@@ -5276,7 +5276,7 @@ ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externa
 								axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
 								.then((a) => {
 								if (Number(filesize) >= 30000) return sendMediaURL(from, thumb, `❏ *YTmp3*\n\n❏ *Title* : ${title}\n❏ *Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Sorry, the duration exceeds the maximum limit, please click the link above_`)
-								sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"🐶 YTMP3",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:`${body.slice(7)}`}}}).catch(() => reply(mess.error.api))
+								sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"🌟 YTMP3",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:`${body.slice(7)}`}}}).catch(() => reply(mess.error.api))
 							})
 					        })
 						} catch (err) {
